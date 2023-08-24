@@ -1,6 +1,6 @@
 # 🖖 Hi, my name is Jose Luiz Rodrigues
 
-soy CTO, Co-Fundador y Profesor en inmmerce. Soy un entusiasta del comercio electrónico con una amplia trayectoria en la plataforma VTEX y habilidades Full Stack en JavaScript.
+soy Co-Fundador y Profesor en inmmerce. Soy un entusiasta del comercio electrónico con una amplia trayectoria en la plataforma VTEX y habilidades Full Stack en JavaScript.
 
 ¿Mis pasiones? ¡Las tecnologías como #ReactJS, #React# Native, #NodeJS y #Python! Me emociona cómo la tecnología tiene el poder de transformar y escalar negocios, y eso es precisamente lo que hago: ayudar a empresas a crecer mediante soluciones tecnológicas innovadoras.
 
