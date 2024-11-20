@@ -15,7 +15,7 @@ Mi misión es sencilla pero impactante: utilizar todo mi conocimiento y experien
 [![Linkedin Badge](https://img.shields.io/badge/-Jose%20Luiz%20Rodrigues-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeluizr/)](https://www.linkedin.com/in/zeluizr/) 
 
 ### 🏆 Troféus do GitHub:
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&column=7)](https://github.com/zeluizr)
 
 ### 📈 Gráfico de Contribuições:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/zeluizr)
