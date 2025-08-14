@@ -1,33 +1,58 @@
 # 👋 Hi, I'm Jose Luiz Rodrigues
 
-[🇪🇸 Versión en Español](README.es.md) | [🇵🇹 Versão em Português](README.pt.md)
+[🇪🇸 Español](README.es.md) | [�� Português (BR)](README.pt-BR.md) | [🇵🇹 Português (PT)](README.pt.md)
 
-I'm a developer, teacher, and an enthusiast of the controlled chaos that is life in the coding world. Co-founder of [inmmerce](https://inmmerce.com) — an online platform that teaches devs to get their hands dirty and build amazing things.
+## 💡 About Me
 
-## 🚀 On a daily basis
+I'm a passionate full stack developer focused on creating innovative solutions and sharing knowledge. As co-founder of [inmmerce](https://inmmerce.com), I lead an education platform that transforms developers into complete professionals through hands-on experiences and real projects.
 
-- I work with React, React Native, Node.js, and sometimes Python 🐍.
-- I believe technology is a tool to transform businesses — but without the coach talk, okay? 😅
-- I have experience with VTEX and e-commerce. If there's a cart and checkout, I'm in!
+## 🚀 Technical Expertise
+
+- **Frontend:** React, React Native, Next.js, TypeScript
+- **Backend:** Node.js, Python, RESTful APIs
+- **E-commerce:** VTEX, Shopify, Payment Integrations
+- **DevOps:** AWS, Docker, CI/CD
+- **Architecture:** Microservices, Distributed Systems
 
 ### 🤘 What drives me
 
 Learning, teaching, and sharing ideas with people who love to create. And if a coffee happens along the way, even better!
 
-### 🌍 Where to find me
+## 💼 Professional Experience
 
-[![Twitter Badge](https://img.shields.io/badge/-@zeluizr-ffc107?style=flat-square&labelColor=ffc107&logo=twitter&logoColor=white&link=https://twitter.com/zeluizr)](https://twitter.com/zeluizr)
-[![Linkedin Badge](https://img.shields.io/badge/-Jose%20Luiz%20Rodrigues-ffc107?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeluizr/)](https://www.linkedin.com/in/zeluizr/)
+- **Co-founder & CTO @ inmmerce**
+  - Technical leadership in high-impact e-commerce projects
+  - Development of scalable solutions for major retailers
+  - Technical team mentoring and training
 
-### 📈 Status
+## 🎓 Education & Knowledge Sharing
+
+- Web and mobile development instructor
+- Technology event speaker
+- Technical content creator
+- Mentor for junior developers
+
+## 🌟 Highlights
+
+### � GitHub Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zeluizr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&langs_count=7)](https://github.com/zeluizr)
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&column=7)](https://github.com/zeluizr)
 
-### 📈 Contribution Graph
+### 📈 Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/zeluizr)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/zeluizr)
+
+## 🤝 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/-@zeluizr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/zeluizr)](https://twitter.com/zeluizr) [![LinkedIn](https://img.shields.io/badge/-Jose%20Luiz%20Rodrigues-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeluizr/)](https://www.linkedin.com/in/zeluizr/) [![GitHub](https://img.shields.io/badge/-zeluizr-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/zeluizr)](https://github.com/zeluizr)
+
+## 📫 Contact
+
+- 💬 Open for mentoring and collaborations
+- 📧 Professional email available via LinkedIn
+- 🌐 Portfolio: [coming soon]
