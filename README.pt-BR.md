@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Jose Luiz Rodrigues
 
-[🇪🇸 Español](README.es.md) | [🇺🇸 English](README.en.md) | [🇵🇹 Português (PT)](README.pt.md)
+[🇪🇸 Español](README.es.md) | [🇺🇸 English](README.en.md)
 
 ## 💡 Sobre mim
 

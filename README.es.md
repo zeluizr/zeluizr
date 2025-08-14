@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jose Luiz Rodrigues
 
-[🇺🇸 English](README.en.md) | [�� Português (BR)](README.pt-BR.md) | [🇵🇹 Português (PT)](README.pt.md)
+[🇺🇸 English](README.en.md) | [🇧🇷 Português (BR)](README.pt-BR.md)
 
 ## 💡 Sobre Mí
 
