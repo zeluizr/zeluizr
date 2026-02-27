@@ -1,58 +1,78 @@
-# 👋 Hola, soy Jose Luiz Rodrigues
+<div align="center">
 
-[🇺🇸 English](README.en.md) | [🇧🇷 Português (BR)](README.pt-BR.md)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Jose+Luiz+%F0%9F%91%8B;Desarrollador+Full+Stack;Co-fundador+%26+CTO+%40+inmmerce;Builder+%7C+Docente+%7C+Creador)](https://git.io/typing-svg)
 
-## 💡 Sobre Mí
+[🇺🇸 English](README.md) | [🇧🇷 Português (BR)](README.pt-BR.md)
 
-Soy un desarrollador full stack apasionado por crear soluciones innovadoras y compartir conocimiento. Como cofundador de [inmmerce](https://inmmerce.com), lidero una plataforma educativa que transforma desarrolladores en profesionales completos a través de experiencias prácticas y proyectos reales.
+</div>
 
-## 🚀 Experiencia Técnica
+---
 
-- **Frontend:** React, React Native, Next.js, TypeScript
-- **Backend:** Node.js, Python, APIs RESTful
-- **E-commerce:** VTEX, Shopify, Integraciones de pago
-- **DevOps:** AWS, Docker, CI/CD
-- **Arquitectura:** Microservicios, Sistemas distribuidos
+## Sobre mí
 
-### 🤘 Lo que me impulsa
+Desarrollador full stack apasionado por construir productos innovadores y compartir conocimiento. Co-fundador & CTO en [inmmerce](https://inmmerce.com) — una plataforma educativa que transforma desarrolladores en profesionales completos a través de experiencias prácticas y proyectos reales.
 
-Aprender, enseñar y compartir ideas con gente que ama crear. Y si se da un café en el camino, ¡mucho mejor!
+> Aprender, enseñar y lanzar cosas. Y si hay café de por medio, ¡mucho mejor!
 
-## 💼 Experiencia Profesional
+---
 
-- **Cofundador & CTO @ inmmerce**
-  - Liderazgo técnico en proyectos de e-commerce de alto impacto
-  - Desarrollo de soluciones escalables para grandes minoristas
-  - Mentoría y formación de equipos técnicos
+## Stack
 
-## 🎓 Educación & Compartir Conocimiento
+**Frontend**
 
-- Profesor de desarrollo web y móvil
-- Ponente en eventos de tecnología
-- Creador de contenido técnico
-- Mentor de desarrolladores junior
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🌟 Destacados
+**Backend**
 
-### � Estadísticas de GitHub
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zeluizr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&langs_count=7)](https://github.com/zeluizr)
+**E-commerce**
 
-### 🏆 Logros en GitHub
+![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&column=7)](https://github.com/zeluizr)
+**DevOps & Cloud**
 
-### 📈 Actividad
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/zeluizr)
+---
 
-## 🤝 Conectemos
+## Experiencia Profesional
 
-[![Twitter](https://img.shields.io/badge/-@zeluizr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/zeluizr)](https://twitter.com/zeluizr) [![LinkedIn](https://img.shields.io/badge/-Jose%20Luiz%20Rodrigues-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeluizr/)](https://www.linkedin.com/in/zeluizr/) [![GitHub](https://img.shields.io/badge/-zeluizr-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/zeluizr)](https://github.com/zeluizr)
+**Co-fundador & CTO @ [inmmerce](https://inmmerce.com)**
+- Liderazgo técnico en proyectos de e-commerce de alto impacto
+- Desarrollo de soluciones escalables para grandes retailers
+- Mentoría y formación de equipos técnicos
+- Docente de desarrollo web y móvil
+- Ponente en eventos de tecnología y creador de contenido
 
-## 📫 Contacto
+---
 
-- 💬 Disponible para mentorías y colaboraciones
-- 📧 Email profesional disponible vía LinkedIn
-- 🌐 Portafolio: [próximamente]
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/zeluizr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)](https://github.com/zeluizr)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zeluizr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&theme=tokyonight&column=7&no-frame=true&margin-w=4)](https://github.com/zeluizr)
+
+</div>
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeluizr/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zeluizr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeluizr)

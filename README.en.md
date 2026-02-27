@@ -1,58 +1,78 @@
-# 👋 Hi, I'm Jose Luiz Rodrigues
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jose+Luiz+%F0%9F%91%8B;Full+Stack+Developer;Co-founder+%26+CTO+%40+inmmerce;Builder+%7C+Teacher+%7C+Creator)](https://git.io/typing-svg)
 
 [🇪🇸 Español](README.es.md) | [🇧🇷 Português (BR)](README.pt-BR.md)
 
-## 💡 About Me
+</div>
 
-I'm a passionate full stack developer focused on creating innovative solutions and sharing knowledge. As co-founder of [inmmerce](https://inmmerce.com), I lead an education platform that transforms developers into complete professionals through hands-on experiences and real projects.
+---
 
-## 🚀 Technical Expertise
+## About Me
 
-- **Frontend:** React, React Native, Next.js, TypeScript
-- **Backend:** Node.js, Python, RESTful APIs
-- **E-commerce:** VTEX, Shopify, Payment Integrations
-- **DevOps:** AWS, Docker, CI/CD
-- **Architecture:** Microservices, Distributed Systems
+Full stack developer passionate about building innovative products and sharing knowledge. Co-founder & CTO at [inmmerce](https://inmmerce.com) — an education platform that transforms developers into complete professionals through hands-on experiences and real projects.
 
-### 🤘 What drives me
+> Learning, teaching, and shipping things. And if there's coffee involved, even better.
 
-Learning, teaching, and sharing ideas with people who love to create. And if a coffee happens along the way, even better!
+---
 
-## 💼 Professional Experience
+## Tech Stack
 
-- **Co-founder & CTO @ inmmerce**
-  - Technical leadership in high-impact e-commerce projects
-  - Development of scalable solutions for major retailers
-  - Technical team mentoring and training
+**Frontend**
 
-## 🎓 Education & Knowledge Sharing
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- Web and mobile development instructor
-- Technology event speaker
-- Technical content creator
-- Mentor for junior developers
+**Backend**
 
-## 🌟 Highlights
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-### � GitHub Statistics
+**E-commerce**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zeluizr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&langs_count=7)](https://github.com/zeluizr)
+![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
-### 🏆 GitHub Achievements
+**DevOps & Cloud**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&column=7)](https://github.com/zeluizr)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📈 Activity
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeluizr)](https://github.com/zeluizr)
+## Professional Experience
 
-## 🤝 Let's Connect
+**Co-founder & CTO @ [inmmerce](https://inmmerce.com)**
+- Technical leadership in high-impact e-commerce projects
+- Development of scalable solutions for major retailers
+- Mentoring and training technical teams
+- Web & mobile development instructor
+- Speaker at tech events and content creator
 
-[![Twitter](https://img.shields.io/badge/-@zeluizr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/zeluizr)](https://twitter.com/zeluizr) [![LinkedIn](https://img.shields.io/badge/-Jose%20Luiz%20Rodrigues-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zeluizr/)](https://www.linkedin.com/in/zeluizr/) [![GitHub](https://img.shields.io/badge/-zeluizr-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/zeluizr)](https://github.com/zeluizr)
+---
 
-## 📫 Contact
+## GitHub Stats
 
-- 💬 Open for mentoring and collaborations
-- 📧 Professional email available via LinkedIn
-- 🌐 Portfolio: [coming soon]
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/zeluizr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)](https://github.com/zeluizr)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zeluizr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&theme=tokyonight&column=7&no-frame=true&margin-w=4)](https://github.com/zeluizr)
+
+</div>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeluizr/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zeluizr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeluizr)
