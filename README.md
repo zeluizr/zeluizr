@@ -1,22 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jose+Luiz+%F0%9F%91%8B;Full+Stack+Developer;Co-founder+%26+CTO+%40+inmmerce;Builder+%7C+Teacher+%7C+Creator)](https://git.io/typing-svg)
-
-[🇪🇸 Español](README.es.md) | [🇧🇷 Português (BR)](README.pt-BR.md)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Jose+Luiz+%F0%9F%91%8B;Desarrollador+Full+Stack;Co-fundador+%26+CTO+%40+inmmerce;Builder+%7C+Docente+%7C+Creador)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## Sobre mí
 
-Full stack developer passionate about building innovative products and sharing knowledge. Co-founder & CTO at [inmmerce](https://inmmerce.com) — an education platform that transforms developers into complete professionals through hands-on experiences and real projects.
+Desarrollador full stack apasionado por construir productos innovadores y compartir conocimiento. Co-fundador & CTO en [inmmerce](https://inmmerce.com) — una plataforma educativa que transforma desarrolladores en profesionales completos a través de experiencias prácticas y proyectos reales.
 
-> Learning, teaching, and shipping things. And if there's coffee involved, even better.
+> Aprender, enseñar y lanzar cosas. Y si hay café de por medio, ¡mucho mejor!
 
 ---
 
-## Tech Stack
+## Stack
 
 **Frontend**
 
@@ -45,14 +43,14 @@ Full stack developer passionate about building innovative products and sharing k
 
 ---
 
-## Professional Experience
+## Experiencia Profesional
 
-**Co-founder & CTO @ [inmmerce](https://inmmerce.com)**
-- Technical leadership in high-impact e-commerce projects
-- Development of scalable solutions for major retailers
-- Mentoring and training technical teams
-- Web & mobile development instructor
-- Speaker at tech events and content creator
+**Co-fundador & CTO @ [inmmerce](https://inmmerce.com)**
+- Liderazgo técnico en proyectos de e-commerce de alto impacto
+- Desarrollo de soluciones escalables para grandes retailers
+- Mentoría y formación de equipos técnicos
+- Docente de desarrollo web y móvil
+- Ponente en eventos de tecnología y creador de contenido
 
 ---
 
@@ -60,18 +58,18 @@ Full stack developer passionate about building innovative products and sharing k
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/zeluizr)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/zeluizr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)](https://github.com/zeluizr)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zeluizr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&theme=tokyonight&column=7&no-frame=true&margin-w=4)](https://github.com/zeluizr)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&theme=tokyonight&column=6&margin-w=8&margin-h=8)](https://github.com/zeluizr)
 
 </div>
 
 ---
 
-## Connect
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeluizr/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zeluizr)
