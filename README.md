@@ -1,87 +1,39 @@
-<div align="center">
+## Hola, soy José Luiz 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Jose+Luiz+%F0%9F%91%8B;Desarrollador+Full+Stack;Co-fundador+%26+CTO+%40+inmmerce;Builder+%7C+Docente+%7C+Creador)](https://git.io/typing-svg)
-
-</div>
+Desarrollador full stack con +20 años de experiencia, especializado en e-commerce y la plataforma VTEX. Co-fundador de [inmmerce](https://inmmerce.com) y creador de [integram.me](https://www.integram.me).
 
 ---
 
-## Sobre mí
+### 🧑‍💻 Sobre mí
 
-Desarrollador full stack apasionado por construir productos innovadores y compartir conocimiento. Co-fundador & CTO en [inmmerce](https://inmmerce.com) — una plataforma educativa que transforma desarrolladores en profesionales completos a través de experiencias prácticas y proyectos reales.
+Empecé en 2004 como front-end en Brasil y desde entonces pasé por agencias, startups y grandes empresas como Cencosud y Telefônica. Viví y trabajé en Brasil, Argentina y Chile, donde estoy actualmente.
 
-> Aprender, enseñar y lanzar cosas. Y si hay café de por medio, ¡mucho mejor!
-
----
-
-## Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**E-commerce**
-
-![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
-
-**DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Hoy me divido entre construir productos propios, dar clases y ayudar a empresas a escalar sus operaciones de e-commerce con tecnología.
 
 ---
 
-## Experiencia Profesional
+### 🚀 Lo que estoy construyendo
 
-**Co-fundador & CTO @ [inmmerce](https://inmmerce.com)**
+🔹 **[integram.me](https://www.integram.me)** — Plataforma de IA que transforma datos caóticos de productos en fichas de e-commerce optimizadas y listas para publicar. +80k productos procesados, 15+ clientes activos.
 
-- Liderazgo técnico en proyectos de e-commerce de alto impacto
-- Desarrollo de soluciones escalables para grandes retailers
-- Mentoría y formación de equipos técnicos
-- Docente de desarrollo web y móvil
-- Ponente en eventos de tecnología y creador de contenido
+🔹 **[inmmerce](https://inmmerce.com)** — Edtech donde enseño desarrollo web y móvil a través de proyectos reales y experiencias prácticas.
+
+🔹 **[commente.me](https://commente.me)** — Consultoría especializada en VTEX y desarrollo full stack para retailers en Latinoamérica.
 
 ---
 
-## Lo que estoy construyendo
+### 🛠️ Tecnologías
 
-### [integram.me](https://www.integram.me) — IA para catálogos de e-commerce
-
-Plataforma de inteligencia artificial que transforma datos de productos en fichas optimizadas listas para publicar — en minutos, no en horas.
-
-| | |
-|---|---|
-| **Clientes activos** | 15+ |
-| **Productos procesados** | +80.000 |
-| **Precisión de datos** | 87,8% |
-| **Reducción de tiempo** | 95% más rápido |
-| **Impacto en conversión** | +40% |
-
-**Tecnologías clave:** Content AI (SEO + descripciones), VTEX Connect (sincronización bidireccional con ERP), soporte multilenguaje (ES / PT / EN). Visual AI en camino para Q2 2026.
+TypeScript, React, React Native, Node.js, Python, TailwindCSS, Supabase, PostgreSQL, Docker, AWS, VTEX, GitHub Actions.
 
 ---
 
-## GitHub Stats
+### 🌎 Idiomas
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zeluizr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+🇧🇷 Português (nativo) · 🇪🇸 Español (fluido) · 🇺🇸 English (básico) · 🇮🇹 Italiano (básico)
 
 ---
 
-## Contacto
+### 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeluizr/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zeluizr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeluizr)
+🔗 [LinkedIn](https://www.linkedin.com/in/zeluizr/) · 🐦 [X](https://x.com/zeluizr) · 💻 [GitHub](https://github.com/zeluizr) · ✉️ zeluizr@me.com
