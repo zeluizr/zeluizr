@@ -36,4 +36,4 @@ TypeScript, React, React Native, Node.js, Python, TailwindCSS, Supabase, Postgre
 
 ### 📬 Contacto
 
-🔗 [LinkedIn](https://www.linkedin.com/in/zeluizr/) · 🐦 [X](https://x.com/zeluizr) · 💻 [GitHub](https://github.com/zeluizr) · ✉️ zeluizr@me.com
+🔗 [LinkedIn](https://www.linkedin.com/in/zeluizr/) · 🐦 [X](https://x.com/zeluizr) · 💻 [GitHub](https://github.com/zeluizr)
