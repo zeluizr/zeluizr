@@ -19,7 +19,6 @@ Desarrollador full stack apasionado por construir productos innovadores y compar
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,12 +27,10 @@ Desarrollador full stack apasionado por construir productos innovadores y compar
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 **E-commerce**
 
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -46,6 +43,7 @@ Desarrollador full stack apasionado por construir productos innovadores y compar
 ## Experiencia Profesional
 
 **Co-fundador & CTO @ [inmmerce](https://inmmerce.com)**
+
 - Liderazgo técnico en proyectos de e-commerce de alto impacto
 - Desarrollo de soluciones escalables para grandes retailers
 - Mentoría y formación de equipos técnicos
@@ -76,12 +74,7 @@ Plataforma de inteligencia artificial que transforma datos de productos en ficha
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeluizr&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/zeluizr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeluizr&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)](https://github.com/zeluizr)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=zeluizr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeluizr&theme=tokyonight&column=6&margin-w=8&margin-h=8)](https://github.com/zeluizr)
 
 </div>
 
