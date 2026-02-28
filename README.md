@@ -54,6 +54,24 @@ Desarrollador full stack apasionado por construir productos innovadores y compar
 
 ---
 
+## Lo que estoy construyendo
+
+### [integram.me](https://www.integram.me) — IA para catálogos de e-commerce
+
+Plataforma de inteligencia artificial que transforma datos de productos en fichas optimizadas listas para publicar — en minutos, no en horas.
+
+| | |
+|---|---|
+| **Clientes activos** | 15+ |
+| **Productos procesados** | +80.000 |
+| **Precisión de datos** | 87,8% |
+| **Reducción de tiempo** | 95% más rápido |
+| **Impacto en conversión** | +40% |
+
+**Tecnologías clave:** Content AI (SEO + descripciones), VTEX Connect (sincronización bidireccional con ERP), soporte multilenguaje (ES / PT / EN). Visual AI en camino para Q2 2026.
+
+---
+
 ## GitHub Stats
 
 <div align="center">
