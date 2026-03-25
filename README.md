@@ -24,6 +24,8 @@ Programador por profesión. Constructor de sistemas por naturaleza.
 |---|---|
 | [**palta**](https://github.com/zeluizr/palta) | Biblioteca de validación y formato para datos latinoamericanos: CPF, CNPJ, RUT, CUIT y más |
 | [**vtex-io-mcp**](https://github.com/zeluizr/vtex-io-mcp) | Servidor MCP para desarrollo en VTEX IO |
+| [**vtex-snap**](https://github.com/zeluizr/vtex-snap) | CLI para clonar el catálogo completo de una tienda VTEX a otra |
+| [**prompt-calculator**](https://github.com/zeluizr/prompt-calculator) | Herramienta web para estimar el costo de tus prompts en modelos de IA con precios en tiempo real |
 
 ## 🛠 Stack
 
