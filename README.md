@@ -1,7 +1,6 @@
 # Jose Luiz Rodrigues
 
-**Full Stack Developer · Emprendedor · Constructor de sistemas**
-Chile · Desde 1995
+**Full Stack Developer · Emprendedor · Constructor de sistemas** · Desde 1995
 
 [🌐 zeluizr.com](https://zeluizr.com) · [LinkedIn](https://linkedin.com/in/zeluizr) · [@zeluizr](https://x.com/zeluizr) · [YouTube](https://youtube.com/@zeluizr) · [Twitch](https://twitch.tv/zeluizr)
 
