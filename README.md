@@ -11,6 +11,8 @@
 
   <p>
     <a href="#-acerca-de">Acerca de</a> ·
+    <a href="#-changelog">Changelog</a> ·
+    <a href="#-licencia">Licencia</a> ·
     <a href="#-autor">Autor</a>
   </p>
 
@@ -21,6 +23,14 @@
 ## 📖 Acerca de
 
 `zeluizr` es un proyecto.
+
+## 📝 Changelog
+
+Consulta el historial de cambios en [`CHANGELOG.md`](./CHANGELOG.md).
+
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT. Ver [`LICENSE`](./LICENSE).
 
 ## 👤 Autor
 
