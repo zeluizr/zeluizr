@@ -5,7 +5,7 @@
   <p><strong>Programador por profesión. Constructor de sistemas por naturaleza.</strong></p>
 
   <p>
-    <img alt="Santiago, Chile" src="https://img.shields.io/badge/📍-Santiago,%20Chile-0A66C2?style=flat-square">
+    <img alt="Río de Janeiro, Brasil" src="https://img.shields.io/badge/📍-Río%20de%20Janeiro,%20Brasil-0A66C2?style=flat-square">
     <a href="https://zeluizr.com"><img alt="Website" src="https://img.shields.io/badge/🌐-zeluizr.com-1a1a1a?style=flat-square"></a>
     <a href="https://github.com/zeluizr?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/zeluizr?style=flat-square&label=seguidores&color=0A66C2"></a>
     <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=zeluizr&style=flat-square&label=visitas&color=0A66C2">
