@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Dev **full-stack** desde Santiago de Chile 🇨🇱, metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da lata de hacer dos veces, le construyo una herramienta para no volver a hacerlo nunca más. 😄
+Carioca de Río de Janeiro 🇧🇷, dev **full-stack** viviendo en Santiago de Chile 🇨🇱 y metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da pereza hacer dos veces, le construyo una herramienta para no repetirlo nunca más. 😄
 
 Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librerías… Si te ahorra tiempo y la API se siente bien, voy feliz.
 
@@ -26,6 +26,8 @@ Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librer
 - 🌎 Le tengo cariño a los **datos latinos**: RUT, CPF, CNPJ, CUIT y compañía.
 - 🤖 Me pierdo con la **automatización** y todo lo que tenga que ver con IA.
 - ✍️ Escribo lo que voy aprendiendo en [zeluizr.com](https://zeluizr.com) ☕.
+
+Fuera del código: **música** 🎵, **skate** 🛹 y mucho **rock and roll** y **electrónica** 🎸. Desarrollador por naturaleza, las 24 horas.
 
 > _Programador por profesión. Constructor de sistemas por naturaleza._
 
