@@ -17,9 +17,9 @@
 
 ## 🚀 Sobre mí
 
-Carioca de Río de Janeiro 🇧🇷, dev **full-stack** metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da pereza hacer dos veces, le construyo una herramienta para no repetirlo nunca más. 😄
+Carioca de Río de Janeiro 🇧🇷, dev **full-stack** enfocado en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me toca hacer dos veces, prefiero construir una herramienta para no repetirlo nunca más. 😄
 
-Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librerías… Si te ahorra tiempo y la API se siente bien, voy feliz.
+Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librerías… Si ahorra tiempo y la API se siente bien, voy contento.
 
 - 🛒 Vivo en **VTEX IO**, Store Framework, React, Node y GraphQL.
 - 🧰 Hago herramientas para devs que odian las tareas repetitivas (igual que yo).
