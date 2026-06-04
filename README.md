@@ -17,14 +17,17 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador **full-stack** especializado en **e-commerce** y en el ecosistema **VTEX IO**. Disfruto construyendo herramientas que resuelven problemas reales: desde CLIs y servidores MCP hasta extensiones de editor y librerías de datos para Latinoamérica.
+Soy desarrollador **full-stack** radicado en Santiago de Chile, especializado en **e-commerce** y en el ecosistema **VTEX IO**. Llevo años construyendo tiendas, integraciones y servicios para retail, y me obsesiona convertir flujos complejos en herramientas simples que la gente quiera usar.
 
-Me apasiona la automatización, las buenas APIs y dejar herramientas open-source que le ahorren tiempo a otros desarrolladores.
+Creo mucho **open-source**: CLIs, servidores MCP, extensiones de editor y librerías de datos. Mi norte es siempre el mismo — una buena API, una buena DX y código que le ahorre tiempo a quien viene después.
 
 - 🛒 Trabajo a diario con **VTEX IO**, Store Framework, React, Node y GraphQL.
-- 🧰 Creo herramientas de developer experience (CLIs, extensiones de VS Code, MCP).
-- 🌎 Construyo utilidades pensadas para **datos latinoamericanos** (RUT, CPF, CNPJ, CUIT…).
-- ✍️ Escribo y comparto en [zeluizr.com](https://zeluizr.com).
+- 🧰 Construyo herramientas de **developer experience**: CLIs, extensiones de VS Code y servidores MCP.
+- 🌎 Diseño utilidades pensadas para **Latinoamérica**, validando datos como RUT, CPF, CNPJ y CUIT.
+- 🤖 Me interesa la **automatización** y todo lo que se cruza con IA y herramientas para desarrolladores.
+- ✍️ Escribo y comparto lo que aprendo en [zeluizr.com](https://zeluizr.com).
+
+> _Programador por profesión. Constructor de sistemas por naturaleza._
 
 ## 🛠️ Tecnologías
 
