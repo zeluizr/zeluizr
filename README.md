@@ -47,20 +47,6 @@ Me apasiona la automatización, las buenas APIs y dejar herramientas open-source
 | [**palta**](https://github.com/zeluizr/palta) | Librería de validación y formato para datos latinoamericanos (CPF, CNPJ, RUT, CUIT, NIT, RUC, monedas, teléfonos…). |
 | [**prompt-snap**](https://github.com/zeluizr/prompt-snap) | Herramienta web para estimar el costo de prompts en modelos de IA con precios en tiempo real (OpenRouter). |
 
-## 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/zeluizr?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/zeluizr?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=181717"></a>
-  <a href="https://github.com/zeluizr?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=Repos%20p%C3%BAblicos&color=0A66C2&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzeluizr"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zeluizr/vtex-io-mcp"><img alt="Stars vtex-io-mcp" src="https://img.shields.io/github/stars/zeluizr/vtex-io-mcp?style=flat-square&label=vtex-io-mcp&logo=github&color=F71963"></a>
-  <a href="https://github.com/zeluizr/vtex-snap"><img alt="Stars vtex-snap" src="https://img.shields.io/github/stars/zeluizr/vtex-snap?style=flat-square&label=vtex-snap&logo=github&color=F71963"></a>
-  <a href="https://github.com/zeluizr/palta"><img alt="Stars palta" src="https://img.shields.io/github/stars/zeluizr/palta?style=flat-square&label=palta&logo=github&color=F71963"></a>
-  <a href="https://github.com/zeluizr/prompt-snap"><img alt="Stars prompt-snap" src="https://img.shields.io/github/stars/zeluizr/prompt-snap?style=flat-square&label=prompt-snap&logo=github&color=F71963"></a>
-</p>
-
 ## 📫 Dónde encontrarme
 
 <p>
