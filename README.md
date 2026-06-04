@@ -41,11 +41,8 @@ Me apasiona la automatización, las buenas APIs y dejar herramientas open-source
 
 | Proyecto | Descripción |
 | --- | --- |
-| [**vtex-io-mcp**](https://github.com/zeluizr/vtex-io-mcp) | Servidor MCP para desarrollo en VTEX IO: Store Framework, React, servicios Node y GraphQL. |
-| [**vtex-snap**](https://github.com/zeluizr/vtex-snap) | CLI para clonar el catálogo completo de una tienda VTEX a otra. |
-| [**vtex-io-snippets**](https://github.com/zeluizr/vtex-io-snippets) | Extensión de VS Code con autocompletado, IntelliSense y snippets para bloques de VTEX IO. |
 | [**palta**](https://github.com/zeluizr/palta) | Librería de validación y formato para datos latinoamericanos (CPF, CNPJ, RUT, CUIT, NIT, RUC, monedas, teléfonos…). |
-| [**prompt-snap**](https://github.com/zeluizr/prompt-snap) | Herramienta web para estimar el costo de prompts en modelos de IA con precios en tiempo real (OpenRouter). |
+| [**vtex-io-snippets**](https://github.com/zeluizr/vtex-io-snippets) | Extensión de VS Code con autocompletado, IntelliSense y snippets para bloques de VTEX IO. |
 
 ## 📫 Dónde encontrarme
 
