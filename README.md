@@ -17,15 +17,15 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador **full-stack** radicado en Santiago de Chile, especializado en **e-commerce** y en el ecosistema **VTEX IO**. Llevo años construyendo tiendas, integraciones y servicios para retail, y me obsesiona convertir flujos complejos en herramientas simples que la gente quiera usar.
+Dev **full-stack** desde Santiago de Chile 🇨🇱, metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da lata de hacer dos veces, le construyo una herramienta para no volver a hacerlo nunca más. 😄
 
-Creo mucho **open-source**: CLIs, servidores MCP, extensiones de editor y librerías de datos. Mi norte es siempre el mismo — una buena API, una buena DX y código que le ahorre tiempo a quien viene después.
+Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librerías… Si te ahorra tiempo y la API se siente bien, voy feliz.
 
-- 🛒 Trabajo a diario con **VTEX IO**, Store Framework, React, Node y GraphQL.
-- 🧰 Construyo herramientas de **developer experience**: CLIs, extensiones de VS Code y servidores MCP.
-- 🌎 Diseño utilidades pensadas para **Latinoamérica**, validando datos como RUT, CPF, CNPJ y CUIT.
-- 🤖 Me interesa la **automatización** y todo lo que se cruza con IA y herramientas para desarrolladores.
-- ✍️ Escribo y comparto lo que aprendo en [zeluizr.com](https://zeluizr.com).
+- 🛒 Vivo en **VTEX IO**, Store Framework, React, Node y GraphQL.
+- 🧰 Hago herramientas para devs que odian las tareas repetitivas (igual que yo).
+- 🌎 Le tengo cariño a los **datos latinos**: RUT, CPF, CNPJ, CUIT y compañía.
+- 🤖 Me pierdo con la **automatización** y todo lo que tenga que ver con IA.
+- ✍️ Escribo lo que voy aprendiendo en [zeluizr.com](https://zeluizr.com) ☕.
 
 > _Programador por profesión. Constructor de sistemas por naturaleza._
 
