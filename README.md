@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Carioca de Río de Janeiro 🇧🇷, dev **full-stack** viviendo en Santiago de Chile 🇨🇱 y metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da pereza hacer dos veces, le construyo una herramienta para no repetirlo nunca más. 😄
+Carioca de Río de Janeiro 🇧🇷, dev **full-stack** metido hasta el cuello en **e-commerce** y **VTEX IO**. Me paso el día armando tiendas, integraciones y servicios para retail — y cuando algo me da pereza hacer dos veces, le construyo una herramienta para no repetirlo nunca más. 😄
 
 Soy fan del **open-source**: CLIs, servidores MCP, extensiones de editor, librerías… Si te ahorra tiempo y la API se siente bien, voy feliz.
 
@@ -55,7 +55,7 @@ Fuera del código: **música** 🎵, **skate** 🛹 y mucho **rock and roll** y 
   <a href="https://zeluizr.com"><img alt="Website" src="https://img.shields.io/badge/Website-zeluizr.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://github.com/zeluizr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-zeluizr-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/zeluizr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zeluizr-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:zeluizrc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zeluizrc@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zeluizr@commente.me"><img alt="Email" src="https://img.shields.io/badge/Email-zeluizr@commente.me-EA4335?style=flat-square&logo=maildotcom&logoColor=white"></a>
   <a href="https://www.npmjs.com/~zeluizr"><img alt="npm" src="https://img.shields.io/badge/npm-zeluizr-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
 </p>
 
