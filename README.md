@@ -52,8 +52,12 @@ Fuera del código: **música** 🎵, **skate** 🛹 y mucho **rock and roll** y 
 
 | Proyecto | Descripción |
 | --- | --- |
-| [**palta**](https://github.com/zeluizr/palta) | Librería de validación y formato para datos latinoamericanos (CPF, CNPJ, RUT, CUIT, NIT, RUC, monedas, teléfonos…). |
-| [**vtex-io-snippets**](https://github.com/zeluizr/vtex-io-snippets) | Extensión de VS Code con autocompletado, IntelliSense y snippets para bloques de VTEX IO. |
+| [**palta**](https://github.com/zeluizr/palta) | Librería de validación y formato para datos latinoamericanos (CPF, CNPJ, RUT, CUIT, NIT, RUC, monedas, teléfonos, códigos postales…). |
+| [**vtex-io-mcp**](https://github.com/zeluizr/vtex-io-mcp) | Servidor MCP para desarrollo en VTEX IO: Store Framework, React, servicios Node y soporte GraphQL. |
+| [**vtex-io-snippets**](https://github.com/zeluizr/vtex-io-snippets) | Extensión de VS Code con autocompletado, IntelliSense y snippets para bloques de VTEX IO Store Framework, con validación de props anidadas. |
+| [**vtex-snap**](https://github.com/zeluizr/vtex-snap) | CLI para clonar el catálogo completo de una tienda VTEX a otra. |
+| [**ai-cost-proxy**](https://github.com/zeluizr/ai-cost-proxy) | Proxy en Cloudflare Workers que registra tokens y costo de IA por equipo y caso de uso, con topes mensuales, alertas y dashboard. |
+| [**prompt-snap**](https://github.com/zeluizr/prompt-snap) | Herramienta web para estimar el costo de prompts en modelos de IA con precios en tiempo real de la API de OpenRouter. |
 
 ## 📫 Dónde encontrarme
 
