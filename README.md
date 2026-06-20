@@ -1,11 +1,17 @@
 <div align="center">
 
+  <a href="https://zeluizr.com">
+    <img alt="José Luiz Rodrigues — Desarrollo con propósito" src="./public/hero.png" width="100%">
+  </a>
+
   <h1>¡Hola! 👋 Soy José Luiz Rodrigues</h1>
 
-  <p><strong>Programador por profesión. Constructor de sistemas por naturaleza.</strong></p>
+  <a href="https://zeluizr.com">
+    <img alt="Programador por profesión. Constructor de sistemas por naturaleza." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F71963&center=true&vCenter=true&width=600&lines=Programador+por+profesi%C3%B3n;Constructor+de+sistemas+por+naturaleza;Desarrollador+full-stack+en+VTEX+IO;Automatizaci%C3%B3n+%2B+IA+aplicada">
+  </a>
 
   <p>
-    <img alt="Río de Janeiro, Brasil" src="https://img.shields.io/badge/📍-Río%20de%20Janeiro,%20Brasil-0A66C2?style=flat-square">
+    <img alt="Santiago, Chile" src="https://img.shields.io/badge/📍-Santiago,%20Chile-0A66C2?style=flat-square">
     <a href="https://zeluizr.com"><img alt="Website" src="https://img.shields.io/badge/🌐-zeluizr.com-1a1a1a?style=flat-square"></a>
     <a href="https://github.com/zeluizr?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/zeluizr?style=flat-square&label=seguidores&color=0A66C2"></a>
     <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=zeluizr&style=flat-square&label=visitas&color=0A66C2">
