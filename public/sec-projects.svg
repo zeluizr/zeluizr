@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60" fill="none" role="img" aria-label="Proyectos open-source">
+  <title>Open source — ls ./open-source</title>
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#241B12"/>
+      <stop offset="100%" stop-color="#15100B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="84%" cy="44%" r="58%">
+      <stop offset="0%" stop-color="#E8822A" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#E8822A" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .eb{font:700 12px ui-monospace,'Fira Code','Cascadia Code','SFMono-Regular',monospace;letter-spacing:3px;fill:#E8822A}
+      .cmd{font:700 25px ui-monospace,'Fira Code','Cascadia Code','SFMono-Regular',monospace}
+      .p{fill:#F71963}.v{fill:#F2ECE3}.a{fill:#E8822A}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="59" rx="12" fill="url(#band)" stroke="#E8822A" stroke-opacity=".22"/>
+  <rect x=".5" y=".5" width="599" height="59" rx="12" fill="url(#glow)"/>
+  <circle cx="22" cy="19" r="4" fill="#F71963"/>
+  <circle cx="38" cy="19" r="4" fill="#E8822A"/>
+  <circle cx="54" cy="19" r="4" fill="#6B5F54"/>
+  <text class="eb" x="582" y="23" text-anchor="end">OPEN SOURCE</text>
+  <text class="cmd" x="20" y="46"><tspan class="p">&gt;_ </tspan><tspan class="v">ls </tspan><tspan class="a">./open-source</tspan></text>
+</svg>

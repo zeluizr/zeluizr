@@ -4,7 +4,17 @@
       "Bash(gh repo:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(command -v rsvg-convert cairosvg inkscape qlmanage)",
+      "Bash(python3 -c \"import cairosvg; print\\('cairosvg ok'\\)\")",
+      "Read(//private/tmp/**)",
+      "Bash(qlmanage -t -s 600 -o /tmp /Volumes/dante/github/zeluizr/public/sec-about.svg /Volumes/dante/github/zeluizr/public/sec-projects.svg /Volumes/dante/github/zeluizr/public/sec-stack.svg)",
+      "Bash(ls -la /tmp/*.png)",
+      "Bash(rm -f /tmp/sec-*.png)",
+      "Bash(qlmanage -t -s 600 -o /tmp /Volumes/dante/github/zeluizr/public/sec-about.svg /Volumes/dante/github/zeluizr/public/sec-projects.svg /Volumes/dante/github/zeluizr/public/sec-stack.svg /Volumes/dante/github/zeluizr/public/sec-achievements.svg)",
+      "Bash(rm -f /tmp/sec-stack.svg.png /tmp/sec-achievements.svg.png)",
+      "Bash(qlmanage -t -s 600 -o /tmp /Volumes/dante/github/zeluizr/public/sec-stack.svg /Volumes/dante/github/zeluizr/public/sec-achievements.svg /Volumes/dante/github/zeluizr/public/sec-contact.svg)",
+      "Bash(git -C /Volumes/dante/github/zeluizr status --short)"
     ]
   }
 }
