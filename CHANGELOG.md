@@ -16,6 +16,10 @@ y este proyecto sigue el [Versionado Semántico](https://semver.org/lang/es/).
   Arctic Code Vault, Public Sponsor).
 
 ### Cambiado
+- README reescrito: empresas (integram.me, commente.me, inmmerce), proyectos open source
+  (palta, vtex-io-snippets) y enlaces de contacto.
+- Nueva imagen `public/hero.png` en formato banner (1920×768), con el usuario `@zeluizr`
+  corregido.
 - Rediseño del cuerpo del README a partir del hero: paleta unificada (charcoal,
   ámbar y magenta VTEX), pills oscuras con íconos en ámbar y proyectos en grilla.
 
