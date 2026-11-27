@@ -1,32 +1,42 @@
-![José Luiz Rodrigues · Programador por profesión. Constructor de sistemas por naturaleza.](assets/banner.png)
+![José Luiz Rodrigues · commente.me](./.github/assets/banner.png)
 
 # José Luiz Rodrigues
 
-**Socio de commente.me. Desarrollo para ecommerce en VTEX, Shopify, Adobe Commerce y Tiendanube desde Santiago.**
-
-[![followers](https://badgen.net/github/followers/zeluizr?color=005278)](https://github.com/zeluizr?tab=followers)
+**Socio de [commente.me](https://www.commente.me). Desarrollo para ecommerce en VTEX, Shopify, Adobe Commerce y Tiendanube desde Santiago de Chile.**
 
 ## Que hago
 
-- Trabajo con VTEX hace mas de 15 años: Store Framework, VTEX IO, integraciones y checkout.
-- Dirijo con Sandra Cantelle [commente.me](https://www.commente.me), la agencia.
-- Construyo [integram.me](https://www.integram.me), el producto para integrar la tienda en todo: PIM, OMS, ERP, Email marketing, Reportes y Dante, el asistente. Los links cortos salen de [smlk.me](https://www.smlk.me).
-- Enseño VTEX en los cursos del canal: cada concepto con una tienda de ejemplo.
+- Trabajo con VTEX hace mas de 16 años, en Brasil, Argentina y Chile: Store Framework, VTEX IO, OMS, checkout e integraciones con ERP.
+- Diseño y construyo la plataforma de commente.me: [integram.me](https://www.integram.me) y [smlk.me](https://www.smlk.me).
+- Publico, con licencia MIT, las herramientas que uso para construir tiendas.
 
-## Para devs
+## Trabajos
 
-Lo que publicamos abierto y sin costo para quien construye tiendas:
+### Plataforma
 
-| producto | para que sirve |
-|---|---|
-| [Snippets for VTEX IO](https://github.com/commentemeapp/vtex-io-snippets) | bloques, props y CSS de Store Framework en VS Code |
-| [Snippets for Shopify](https://github.com/commentemeapp/shopify-snippets) | Liquid y el `{% schema %}` de los temas en VS Code |
-| [Snippets for Adobe Commerce](https://github.com/commentemeapp/adobe-commerce-snippets) | XML, PHP y layout de módulos en VS Code |
-| [Snippets for Tiendanube](https://github.com/commentemeapp/tiendanube-snippets) | Twig y el `{% schema %}` de los temas en VS Code |
-| Servidores MCP | [vtex-io-mcp](https://github.com/commentemeapp/vtex-io-mcp), [adobe-commerce-mcp](https://github.com/commentemeapp/adobe-commerce-mcp) y [tiendanube-mcp](https://github.com/commentemeapp/tiendanube-mcp), en npm |
-| Plugins de Claude Code | subagentes para [VTEX IO](https://github.com/commentemeapp/vtex-io-agents), [Shopify](https://github.com/commentemeapp/shopify-agents), [Adobe Commerce](https://github.com/commentemeapp/adobe-commerce-agents), [Tiendanube](https://github.com/commentemeapp/tiendanube-agents) y [migraciones VTEX](https://github.com/commentemeapp/vtex-migration-agents) |
-| Skills de agente | reglas con la documentación oficial de [Adobe Commerce](https://github.com/commentemeapp/adobe-commerce-skills) y [Tiendanube](https://github.com/commentemeapp/tiendanube-skills) |
-| [Atacama Theme](https://github.com/commentemeapp/atacama-theme) | Atacama Noche, Día y Azul para VS Code, terminales y Chrome |
+| producto | que es |
+| --- | --- |
+| [integram.me](https://www.integram.me) | La plataforma que conecta la tienda con sus canales, su ERP y sus ventas: PIM, OMS, ERP, email marketing, carritos abandonados, reportes y Dante, el asistente. |
+| [smlk.me](https://www.smlk.me) | Enlaces cortos con parámetros UTM y conteo de visitas. |
+| [www.commente.me](https://www.commente.me) | El sitio de la agencia. |
+
+### Para devs
+
+Una herramienta por plataforma y por lugar donde trabajas: el editor, la terminal y el agente.
+
+| plataforma | servidor MCP | agentes para Claude Code | skills | snippets para VS Code |
+| --- | --- | --- | --- | --- |
+| VTEX IO | [vtex-io-mcp](https://github.com/commentemeapp/vtex-io-mcp) | [vtex-io-agents](https://github.com/commentemeapp/vtex-io-agents), [vtex-migration-agents](https://github.com/commentemeapp/vtex-migration-agents) | las oficiales de VTEX | [Snippets for VTEX IO](https://github.com/commentemeapp/vtex-io-snippets) |
+| Shopify | el oficial, `@shopify/dev-mcp` | [shopify-agents](https://github.com/commentemeapp/shopify-agents) | la oficial de Shopify | [Snippets for Shopify](https://github.com/commentemeapp/shopify-snippets) |
+| Adobe Commerce | [adobe-commerce-mcp](https://github.com/commentemeapp/adobe-commerce-mcp) | [adobe-commerce-agents](https://github.com/commentemeapp/adobe-commerce-agents) | [adobe-commerce-skills](https://github.com/commentemeapp/adobe-commerce-skills) | [Snippets for Adobe Commerce](https://github.com/commentemeapp/adobe-commerce-snippets) |
+| Tiendanube y Nuvemshop | [tiendanube-mcp](https://github.com/commentemeapp/tiendanube-mcp) | [tiendanube-agents](https://github.com/commentemeapp/tiendanube-agents) | [tiendanube-skills](https://github.com/commentemeapp/tiendanube-skills) | [tiendanube-snippets](https://github.com/commentemeapp/tiendanube-snippets) |
+
+- **Atacama Theme**: seis temas para VS Code y Warp con los colores de commente.me, integram.me y smlk.me, de día y de noche.
+- Las extensiones están en el [Marketplace de VS Code](https://marketplace.visualstudio.com/publishers/commenteme) y los servidores MCP en [npm](https://www.npmjs.com/org/commenteme).
+
+### Antes
+
+- Enseñé VTEX por años en inmmerce. El sitio queda como archivo de las clases.
 
 ## Con que trabajo
 
@@ -34,8 +44,4 @@ TypeScript, React, Node, GraphQL, VTEX IO, Shopify, Adobe Commerce, Tiendanube, 
 
 ## Contacto
 
-Para hablar de un proyecto, usa el formulario de [commente.me](https://www.commente.me).
-
----
-
-Hecho en Santiago · [commente.me](https://www.commente.me)
+Para hablar de un proyecto, escribe a hablecon@commente.me o usa el formulario de [commente.me](https://www.commente.me).
